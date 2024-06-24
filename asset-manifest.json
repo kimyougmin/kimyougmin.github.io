@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1e97582a.css",
+    "main.js": "/static/js/main.f9f4f355.js",
+    "static/js/453.ace21015.chunk.js": "/static/js/453.ace21015.chunk.js",
+    "static/media/portfolio.png": "/static/media/portfolio.4f4037f5650a61f7e12b.png",
+    "static/media/skills-background.png": "/static/media/skills-background.66bb6d6ae5ce775cab74.png",
+    "static/media/langProject.png": "/static/media/langProject.545934ef407eff63ff52.png",
+    "static/media/about-me-background.png": "/static/media/about-me-background.3ce725fd4f42b39a299b.png",
+    "static/media/pac.png": "/static/media/pac.8428dd9de31776bdac65.png",
+    "static/media/passo1.png": "/static/media/passo1.fb2531de162ad5a8fa21.png",
+    "static/media/coinai.png": "/static/media/coinai.7714cf6f60600448b5ca.png",
+    "static/media/icon-nginx.png": "/static/media/icon-nginx.9bca21aeb9537cf86fd4.png",
+    "static/media/icon-ubuntu.png": "/static/media/icon-ubuntu.a74542561501903a28b8.png",
+    "static/media/textclassifier.png": "/static/media/textclassifier.a46fbfb7285bfa79365e.png",
+    "static/media/realtimechat.png": "/static/media/realtimechat.5c3b5c6b747db8675f37.png",
+    "static/media/icon-pytouch.png": "/static/media/icon-pytouch.dc005d435d173cb2b05a.png",
+    "static/media/icon-tensorflow.png": "/static/media/icon-tensorflow.d2145cc75dc411e52a95.png",
+    "static/media/icon-spring.png": "/static/media/icon-spring.f0126d1c39d7ab5945e1.png",
+    "static/media/icon-php.png": "/static/media/icon-php.d6e32fa469b805858684.png",
+    "index.html": "/index.html",
+    "main.1e97582a.css.map": "/static/css/main.1e97582a.css.map",
+    "main.f9f4f355.js.map": "/static/js/main.f9f4f355.js.map",
+    "453.ace21015.chunk.js.map": "/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e97582a.css",
+    "static/js/main.f9f4f355.js"
+  ]
+}
